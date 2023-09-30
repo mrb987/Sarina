@@ -1,4 +1,4 @@
 # Sarina
 Cancer Detection Programm with Artificial Intelligence.
 
-In memory of the Iranian girl Sarina who was killed by the oppressive government of the Islamic Republic during the protest for freedom in 2022.
+In memory of the Iranian girl Sarina Esmailzadeh who was killed On 23 September 2022 by the oppressive government of the Islamic Republic during the protest for freedom.
