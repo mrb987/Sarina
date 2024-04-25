@@ -1,5 +1,5 @@
 # Sarina
-Cancer Detection Programm with Artificial Intelligence.
+Cancer Detection Programm with Machine Learning.
 
 version 1.1
 
